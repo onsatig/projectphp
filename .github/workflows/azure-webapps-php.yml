@@ -7,8 +7,8 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: 'webapp45693926'  # Azure Web App name
-  DOCKER_IMAGE: 'samirswidi/phpdevoops'  # Docker image name
-  PHP_VERSION: '8.x'  # PHP version used
+  DOCKER_IMAGE: 'onsatig/phpdevoops'  # Docker image name
+  PHP_VERSION: '6.x'  # PHP version used
 
 permissions:
   contents: read
